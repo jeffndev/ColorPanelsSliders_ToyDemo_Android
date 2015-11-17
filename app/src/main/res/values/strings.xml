@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="menu_item_more_info_string">More Information</string>
+    <string name="main_activity_options_menu_message">If you love the artwork you see here
+        Please do visit the Museum!</string>
+    <string name="main_activity_alert_positive_button">Visit MOMA</string>
+    <string name="main_activity_alert_negative_button">Not Now</string>
+</resources>
